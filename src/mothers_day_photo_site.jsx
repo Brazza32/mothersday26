@@ -8,12 +8,12 @@ export default function MothersDaySite() {
     {
       label: "From Oscar",
       message: "Happy Mother’s Day Mum, you mean more to me than words can ever say. Your love, strength, and kindness have shaped so much of who I am. Thanks for being an amazing role model",
-      photo: "/photos/cath-2.jpg",
+      photo: "/photos/cath-4.jpg",
     },
     {
       label: "Message Title 3",
       message: "Some of my favourite memories will always be the ones we share together.",
-      photo: "/photos/cath-3.jpg",
+      photo: "/photos/cath-2.jpg",
     },
     {
       label: "From Henry",
